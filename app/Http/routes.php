@@ -11,11 +11,17 @@
 |
 */
 
-Route::get('/', 'WelcomeController@index');
+ Route::get('/', 'WelcomeController@index');
 
-Route::get('home', 'HomeController@index');
+// Route::get('home', 'HomeController@index');
 
-Route::controllers([
-	'auth' => 'Auth\AuthController',
-	'password' => 'Auth\PasswordController',
-]);
+// Route::controllers([
+// 	'auth' => 'Auth\AuthController',
+// 	'password' => 'Auth\PasswordController',
+// ]);
+
+
+Route::get('/users', 'UserController@index');
+Route::get('/posts', 'PostController@index');
+Route::get('/cats', 'CategoryController@index');
+

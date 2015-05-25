@@ -1,0 +1,1367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"wp",
+				"wpdb  (variable)"
+			],
+			[
+				"post",
+				"post_categories"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"mysql_e",
+				"mysql_error"
+			],
+			[
+				"ready",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"read",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"par",
+				"parse	$.parseJSON()"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"scr",
+				"script	<script>"
+			],
+			[
+				"email",
+				"emailSent"
+			],
+			[
+				"ob",
+				"ob_clean"
+			],
+			[
+				"blog",
+				"bloginfo"
+			],
+			[
+				"full",
+				"fullname_kana"
+			],
+			[
+				"find",
+				"findOrFail"
+			],
+			[
+				"ajax",
+				"ajax	$.ajax()"
+			],
+			[
+				"text-dec",
+				"text-decoration:   (property)"
+			],
+			[
+				"Route",
+				"Route-group	Route-group"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Form",
+				"Form-open	Form-open"
+			],
+			[
+				"back",
+				"background-color:   (property)"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"ng-bin",
+				"ng-bind-html	AngularJS"
+			],
+			[
+				"ng-rea",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"get",
+				"getjson	$.getjson()"
+			],
+			[
+				"Contact",
+				"ContactController"
+			],
+			[
+				"josn",
+				"json_encode"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"arra",
+				"arrT  (variable)"
+			],
+			[
+				"text",
+				"textarea	<textarea>"
+			],
+			[
+				"ht",
+				"$http	AngularJS"
+			],
+			[
+				"ease-",
+				"ease-in-out"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"ea",
+				"ease-in"
+			],
+			[
+				"li",
+				"linear"
+			],
+			[
+				"moz-tranfo",
+				"-moz-transform:   (property)"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"webkit-tra",
+				"-webkit-transition"
+			],
+			[
+				"moz-tran",
+				"-moz-transition:   (property)"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"va",
+				"val	.val()"
+			],
+			[
+				"int",
+				"inputn	input - number"
+			],
+			[
+				"in",
+				"inputh	input - hidden"
+			],
+			[
+				"update",
+				"updateUser"
+			],
+			[
+				"link",
+				"links	link - stylesheet"
+			],
+			[
+				"ng",
+				"ng-include	AngularJS"
+			],
+			[
+				"ser",
+				"service	AngularJS"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"ng-repeat-",
+				"ng-repeat-start	AngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"check",
+				"check_age"
+			],
+			[
+				"inputt",
+				"inputt	input - text"
+			],
+			[
+				"$s",
+				"$scope	AngularJS"
+			],
+			[
+				"input",
+				"inputm	input - month"
+			],
+			[
+				"inpu",
+				"inputs	input - submit"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"my",
+				"my-directive"
+			],
+			[
+				"ng-in",
+				"ng-init	AngularJS"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			],
+			[
+				"an",
+				"angular	AngularJS"
+			],
+			[
+				"contr",
+				"controller	AngularJS"
+			],
+			[
+				"scop",
+				"$scope	AngularJS"
+			],
+			[
+				"header",
+				"headercontroller"
+			],
+			[
+				"controller",
+				"$controller	AngularJS"
+			],
+			[
+				"module",
+				"verbose_module	AngularJS"
+			],
+			[
+				"filer",
+				"filter_data"
+			],
+			[
+				"catego",
+				"category_topic_id"
+			],
+			[
+				"cate",
+				"category_topic_id"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"pu",
+				"publish"
+			],
+			[
+				"file_",
+				"file_time"
+			],
+			[
+				"filetime",
+				"filemtime"
+			],
+			[
+				"scrip",
+				"scripts"
+			],
+			[
+				"data",
+				"data_show"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"all",
+				"all_topic"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"is_fo",
+				"is_front_page"
+			],
+			[
+				"WP_Query",
+				"WP_Query	New WP_Query Class"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"get_the",
+				"get_the_excerpt"
+			],
+			[
+				"has_po",
+				"has_post_thumbnail"
+			],
+			[
+				"the",
+				"the_content"
+			],
+			[
+				"get_cate",
+				"get_category"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"res",
+				"result  (variable)"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"backgroup",
+				"background-color:   (property)"
+			],
+			[
+				"pro",
+				"product_info"
+			],
+			[
+				"op",
+				"opacity:   (property)"
+			],
+			[
+				"sub",
+				"subfolder_root"
+			],
+			[
+				"path",
+				"path_read_rss"
+			],
+			[
+				"pla",
+				"playlist_item_id  (variable)"
+			],
+			[
+				"coup",
+				"couple"
+			],
+			[
+				"click",
+				"click  (function)"
+			],
+			[
+				"type",
+				"Content-Type"
+			],
+			[
+				"resul",
+				"results  (variable)"
+			],
+			[
+				"su",
+				"submit	.submit()"
+			],
+			[
+				"next",
+				"next	.next()"
+			],
+			[
+				"styl",
+				"style_idd  (variable)"
+			],
+			[
+				"chekc",
+				"checked"
+			],
+			[
+				"wp_",
+				"wp_die"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"key",
+				"keymeta"
+			],
+			[
+				"font-",
+				"font-size:   (property)"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"while",
+				"while	while …"
+			],
+			[
+				"WP_QUERy",
+				"WP_Query"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"moz-bor",
+				"-moz-border-radius:   (property)"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"wp_reset",
+				"wp_reset_query"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packer c",
+				"Package Control: List Packages"
+			],
+			[
+				"bs3-html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"Gist",
+				"Gist: Open Gist"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pakce",
+				"Package Control: List Packages"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"fe",
+				"Fetch: Manage"
+			],
+			[
+				"bs3-col12",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"bs3-row",
+				"Snippet: bs3-row"
+			],
+			[
+				"bs3-col5",
+				"Snippet: bs3-col-5"
+			],
+			[
+				"bs3-col",
+				"Snippet: bs3-col-4"
+			],
+			[
+				"bs3-col4",
+				"Snippet: bs3-col-4"
+			],
+			[
+				"bs3-but",
+				"Snippet: bs3-block-button-success"
+			],
+			[
+				"bs3-butt",
+				"Snippet: bs3-mini-button"
+			],
+			[
+				"bs3-table",
+				"Snippet: bs3-table-responsive"
+			],
+			[
+				"bs3-coi",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3-12",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"bs3-conta",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3-nav",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"bs3-ht",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"laravel: ",
+				"Laravel Artisan: Key: Generate"
+			],
+			[
+				"laravel: route",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"bs3-",
+				"Snippet: bs3-glyphicon"
+			],
+			[
+				"bs3-col-12",
+				"Snippet: bs3-col-12"
+			],
+			[
+				"bs3-aler",
+				"Snippet: bs3-alert-success"
+			],
+			[
+				"bs3-html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3-war",
+				"Snippet: bs3-alert-warning"
+			],
+			[
+				"bs3-m",
+				"Snippet: bs3-modal"
+			],
+			[
+				"ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"bs3-li",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"bs3-cotan",
+				"Snippet: bs3-container"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: epre",
+				"Snippet: php-epre"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <div>"
+			],
+			[
+				"bsm-",
+				"Snippet: bs3-modal"
+			],
+			[
+				"Snippet: bs3-html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: add",
+				"Snippet: bs3-button-disabled"
+			],
+			[
+				"Snippet: echo",
+				"Snippet: echo \"…\""
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"remove page",
+				"Package Control: Remove Package"
+			],
+			[
+				"bt3-ta",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"sublimeCodeintel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"bs3-col2",
+				"Snippet: bs3-col-2"
+			],
+			[
+				"bs3-col10",
+				"Snippet: bs3-col-10"
+			],
+			[
+				"bs3-col3",
+				"Snippet: bs3-col-3"
+			],
+			[
+				"bs3-col6",
+				"Snippet: bs3-col-6"
+			],
+			[
+				"bs3-cot",
+				"Snippet: bs3-container"
+			],
+			[
+				"BS3-IM",
+				"Snippet: bs3-image"
+			],
+			[
+				"bs3-input",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"bs3-htm",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"nav",
+				"Snippet: bs3-navbar-basic"
+			],
+			[
+				"bs3-pag",
+				"Snippet: bs3-pagination"
+			],
+			[
+				"bs3-a",
+				"Snippet: bs3-pager-aligned"
+			],
+			[
+				"bs3-na",
+				"Snippet: bs3-alert-info"
+			],
+			[
+				"bs3-nva",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"bs3-van",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"bs3-icon",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"bs3-thum",
+				"Snippet: bs3-thumbnail"
+			],
+			[
+				"bs3-cou",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"bs3-list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"bs3-input-text",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"mana",
+				"Fetch: Manage"
+			],
+			[
+				"wod",
+				"WordPress Developer: Search Selection"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"ftech",
+				"Fetch: File"
+			],
+			[
+				"A",
+				"Autoprefix CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 538.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"node -v",
+			"thoriq$ node -v",
+			"node -v",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/working/Codes/laravel-test"
+	],
+	"file_history":
+	[
+		"/D/working/Codes/laravel5/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/working/Codes/laravel5/database/migrations/2015_05_22_161031_create_lists_table.php",
+		"/D/working/Codes/laravel5/database/migrations/2015_05_05_012825_create_news_table.php",
+		"/D/working/Codes/laravel5/resources/views/templates/master.blade.php",
+		"/D/working/Codes/laravel5/app/Profile.php",
+		"/D/working/Codes/laravel5/app/Http/Controllers/Auth/AuthController.php",
+		"/D/working/Codes/laravel5/app/news.php",
+		"/D/working/Codes/laravel5/app/User.php",
+		"/D/working/Codes/laravel5/database/migrations/2015_05_22_143917_create_profiles_table.php",
+		"/D/working/Codes/laravel5/resources/views/profiles/index.blade.php",
+		"/D/working/Codes/laravel5/app/Http/routes.php",
+		"/D/working/Codes/laravel5/app/Http/Controllers/ProfilesController.php",
+		"/D/working/Codes/laravel5/resources/views/home.blade.php",
+		"/D/working/Codes/laravel5/database/migrations/2015_05_05_013813_create_news_table.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/js/contentbox.js",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/single-item.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/search.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/sidebar.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/header.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-config.php",
+		"/D/working/Codes/testcode/noidung.php",
+		"/D/working/Codes/testcode/index.php",
+		"/D/working/Codes/testcode/developer.html",
+		"/D/working/Codes/testcode/get.php",
+		"/D/working/Codes/angular/index.php",
+		"/D/working/Codes/iglocal-17-03-2015-dev/wp-content/themes/I-Global/page-lien-he.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/css/styles.css",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/css/fvn.css",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/admin/shortcode.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/functions.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/content-page.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/twentytwelve/page.php",
+		"/D/working/Codes/json/get.php",
+		"/D/working/Codes/json/index.php",
+		"/U/03_Sales&Marketing/00_Customer/02_Project/00_Web Integration/N-asset/03.Web Renewal/07.Design Data/150515/html/index.html",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/page-thanks.php",
+		"/C/Users/Viettq/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/page-6659.php",
+		"/D/working/Codes/laravel5/app/Http/Controllers/NewsController.php",
+		"/D/working/Codes/laravel5/resources/views/pages/news.blade.php",
+		"/D/working/Codes/laravel5/app/Http/Controllers/HomeController.php",
+		"/D/working/Codes/laravel5/resources/views/auth/login.blade.php",
+		"/D/working/Codes/laravel5/app/Http/Controllers/AccountController.php",
+		"/D/working/Codes/laravel5/resources/views/dangnhap/login.blade.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/plugins/wp-contact/jscontact-plugin.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/index.php",
+		"//192.168.50.252/Dept&Project/03_Sales&Marketing/00_Customer/02_Project/00_Web Integration/N-asset/03.Web Renewal/07.Design Data/150515/html/content.html",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/page-6628.php",
+		"/C/Users/Viettq/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/page-send-mail.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/page-thank-you.php",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/config 2.php",
+		"/D/working/Codes/XXXXXX/config_root.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/single.php",
+		"/D/working/Codes/json/file.json",
+		"/D/working/Codes/angular/select.php",
+		"/D/working/Codes/json/index.html",
+		"/D/working/json/index.html",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/twentytwelve/content-page.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/page-area.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/page-item.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/page.php",
+		"/D/working/Codes/umeda-cd/wp-includes/post.php",
+		"/D/working/Codes/umeda-cd/wp-includes/query.php",
+		"//192.168.50.252/Dept&Project/03_Sales&Marketing/00_Customer/02_Project/00_Web Integration/N-asset/03.Web Renewal/07.Design Data/150515/html/index.html",
+		"/D/working/Codes/laravel5/resources/views/errors/503.blade.php",
+		"/D/working/Codes/laravel5/config/cache.php",
+		"/D/working/Codes/laravel5/config/session.php",
+		"/C/Users/Viettq/AppData/Roaming/Skype/My Skype Received Files/hcm_contacts.sql",
+		"//192.168.50.252/Dept&Project/03_Sales&Marketing/00_Customer/02_Project/00_Web Integration/N-asset/03.Web Renewal/07.Design Data/150515/html/css/fvn.css",
+		"/D/working/Codes/iglocal-17-03-2015-dev/wp-content/themes/I-Global/page-cam-on.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/page-vietnamese-house-owner.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/plugins/wp-contact/jscontact-plugin/jscontact-plugin.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-config-sample.php",
+		"/D/working/Codes/laravel5/config/app.php",
+		"/D/working/Codes/laravel5/resources/views/app.blade.php",
+		"/D/working/Codes/laravel5/resources/views/auth/reset.blade.php",
+		"/D/working/Codes/laravel5/resources/views/auth/register.blade.php",
+		"/D/working/Codes/laravel5/resources/views/auth/password.blade.php",
+		"/D/working/Codes/laravel5/resources/views/welcome.blade.php",
+		"/D/working/Codes/laravel5/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/D/working/Codes/laravel5/app/Http/Middleware/VerifyCsrfToken.php",
+		"/D/working/Codes/laravel5/app/Http/Controllers/Auth/PasswordController.php",
+		"/D/working/Codes/laravel5/storage/framework/cache/8d/77/8d777f385d3dfec8815d20f7496026dc",
+		"/D/working/Codes/laravel5/app/Http/Controllers/AccountControllers.php",
+		"/D/working/Codes/laravel5/resources/views/pages/contact.blade.php",
+		"/D/working/Codes/laravel5/resources/views/dangnhap/login.php",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/shop.php",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/contact.php",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/Google-map-marker.xml",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/contact.tpl",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/D/working/Codes/laravel5/resources/views/pages/news_edit.blade.php",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/Custom-top-menu-front-end.xml",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/header.tpl",
+		"/C/Users/Viettq/AppData/Local/Temp/fz3temp-1/footer.tpl",
+		"/C/Users/Viettq/Desktop/FILE TAM/Multistore Google Analytics v.111/v1.5.5.x/Upload/vqmod/vqmod_multistore_google_analytics.xml",
+		"/D/working/Codes/laravel5/resources/views/pages/news_create.blade.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/plugins/FVN/fvn_customer_voice.php",
+		"/D/working/Codes/nasset0805015/wp-content/themes/freesale_dentalpromo/functions.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/single-customers-voice.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/themes/freesale_dentalpromo/archive-item.php",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/plugins/make-cache/make-cache.php",
+		"/D/working/Codes/www.n-asset-vietnam.com/fswp/.htaccess",
+		"/D/working/Codes/nasset-2016/.htaccess",
+		"/D/working/Codes/nasset-2016/fswp/.htaccess",
+		"/D/working/Codes/nasset0805015/wp-content/themes/freesale_dentalpromo/admin/shortcode.php",
+		"/D/working/Codes/nasset0805015/wp-content/plugins/advanced-custom-fields/css/input.css",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/plugins/advanced-custom-fields/css/input.css",
+		"/D/working/Codes/www.n-asset-vietnam.com/.htaccess",
+		"/D/working/Codes/nasset-2016/fswp/wp-content/plugins/wp-custom-fields-search/extra_search_fields.php",
+		"/D/working/Codes/nasset-2016/nassetvi_27052014.sql",
+		"/D/working/Codes/info.php",
+		"/D/working/Codes/nasset0805015/wp-config.php",
+		"/D/working/Codes/nasset0805015/wp-content/plugins/make-cache/make-cache.php",
+		"/D/working/Codes/nasset0805015/nassetvi_27052014.sql",
+		"/D/working/Codes/nasset0805015/.htaccess",
+		"/D/working/Codes/laravel5/app/Http/Controllers/PagesController.php",
+		"/D/working/Codes/laravel5/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/working/Codes/laravel5/app/Http/Requests/CheckNewsRequest.php",
+		"/D/working/Codes/laravel5/public/.htaccess",
+		"/D/working/Codes/laravel5/resources/views/pages/aboutme.blade.php",
+		"/D/working/Codes/laravel5/bootstrap/app.php",
+		"/D/working/Codes/laravel5/.env",
+		"/D/working/Codes/laravel5/resources/views/pages/contact.php",
+		"/D/working/Codes/laravel5/app/Http/Controllers/ContactController.php",
+		"/D/working/Codes/laravel5/app/Http/Controllers/WelcomeController.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"D:\\working\\Codes\\rausachantoan",
+			"D:\\working\\Codes\\dienmay",
+			"D:\\working\\Codes\\thoitrang",
+			"D:\\working\\Codes\\dienmay\\catalog\\language\\vietnamese",
+			"D:\\working\\Codes\\www.i-glocal.com\\vn",
+			"D:\\working\\Codes\\dienmay\\catalog\\language\\vietnamese",
+			"D:\\working\\Codes\\tem01062015\\app",
+			"D:\\working\\Codes\\tem01062015\\app\\View",
+			"D:\\working\\Codes\\intelligencevietnam.com2\\app",
+			"D:\\working\\Codes\\www.i-glocal.com\\vn",
+			"D:\\working\\Codes\\tempvietnam12082014",
+			"D:\\working\\Codes\\www.n-asset-vietnam.com\\fswp\\wp-content\\themes\\freesale_dentalpromo,D:\\working\\Codes\\woo\\wp-content\\themes\\vantage\\woocommerce,D:\\working\\Codes\\tempvietnam12082014",
+			"D:\\working\\Codes\\www.n-asset-vietnam.com\\fswp\\wp-content\\themes\\freesale_dentalpromo,D:\\working\\Codes\\woo\\wp-content\\themes\\vantage\\woocommerce",
+			"D:\\working\\Codes\\www.n-asset-vietnam.com\\fswp\\wp-content\\themes\\freesale_dentalpromo",
+			"D:\\working\\Codes\\guideline"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/home/yendangk/public_html/",
+			"/home/yendangk/public_html",
+			"`",
+			"session",
+			"request",
+			"contact_form",
+			"clearfix",
+			"href",
+			"blog",
+			"b0_price",
+			"the_query",
+			"$html .=",
+			"the_query",
+			"the_query2",
+			"the_query",
+			"hcm_contacts",
+			"$news = news::latest('created_at')->where('created_at', '<=', Carbon::now())->paginate(5)->get();",
+			"2",
+			"logo",
+			"HOUS",
+			"radio",
+			"nga",
+			"addSocial",
+			"social",
+			"n-asset-vietnam.com",
+			"http://test.local/fswp",
+			"http://test.local/fswp/",
+			"http://test.local/",
+			"test.loca",
+			"9",
+			"12",
+			"fbclient",
+			"rewrite",
+			"mode_rewrite",
+			"vhost",
+			"host",
+			"vhost",
+			"Servername",
+			"index.php",
+			"ServerName",
+			"_dir",
+			"TCP",
+			"IP",
+			"IP-MIB",
+			"extension",
+			"PHP_BZ2",
+			"extension_dir",
+			"sce",
+			"statuses",
+			"updateName",
+			"name",
+			"thanhcong",
+			"id",
+			"remove_core_updates",
+			"updateUser",
+			"10",
+			"300",
+			"3turn",
+			"logo",
+			"_GET",
+			"_POST",
+			"x",
+			"chat",
+			"kiemtrachanle",
+			"g",
+			"G",
+			"1",
+			"10",
+			"heading_title",
+			"news",
+			"topic_id",
+			"getAllTopic",
+			"form-product",
+			"person",
+			".owlCarousel",
+			"$('#slideshow0').owlCarousel",
+			"owl.carousel.min.js",
+			"scripts",
+			"  ",
+			"news",
+			"($data['route'] == 'product/product' && $key == 'product_id') ||",
+			"topic_id",
+			"data_show",
+			"News",
+			"title",
+			"validate",
+			"validateForm",
+			"validate",
+			"?>?>",
+			"vali",
+			"!empty($topic)",
+			"form",
+			"manufacturer_info",
+			"topic",
+			"no_image",
+			"placeholder",
+			"keyword",
+			"description",
+			"validateForm",
+			"name",
+			"error_permission",
+			"error_keyword",
+			"validate",
+			"delete",
+			"editCategoryTopic",
+			"description",
+			"topic",
+			"all_topic",
+			"this",
+			"		",
+			"news",
+			"News",
+			"install",
+			"form-product",
+			"getTopicbyID",
+			"status",
+			"right",
+			"content",
+			"url_alias",
+			"topic",
+			"image",
+			"<?php echo $language['language_id']; ?>",
+			"news",
+			"control",
+			"group",
+			"?>\n",
+			"div",
+			"news"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"echo ",
+			"wp_contacts",
+			"http://n-asset-vietnam.com",
+			"http://n-asset-vietnam.com/",
+			"!empty($data_show)",
+			"validateForm",
+			"topic",
+			"Topic",
+			"topic",
+			"topic_description",
+			"topic",
+			"description",
+			"topic",
+			"description",
+			"topic",
+			"Topic",
+			"topic",
+			"Topic",
+			"http://example.com",
+			"http://www.example.com",
+			"yennhahangngan.com",
+			"<?php bloginfo( 'template_url' ); ?>/images",
+			"<?php bloginfo( 'template_url' ); ?>/image",
+			"$data",
+			"$",
+			"http://www.i-glocal.com/vn",
+			"/",
+			"support",
+			"/",
+			"/contact/",
+			"/contact/index.php",
+			"600",
+			"','fvnposttype'),",
+			"$data",
+			"local.local/umeda",
+			"viettq",
+			"www.softfront.com.vn",
+			"http://dev.fvn-office.net/work/umeda",
+			"style",
+			"http://local.local/umeda",
+			"eng/",
+			"en/",
+			"/en/",
+			"'eng/en_",
+			"'eng/",
+			"eng/",
+			"eng/en_",
+			"eng/",
+			"'eng/en_",
+			"'eng/",
+			"eng/en_co",
+			"eng/co",
+			"/en/",
+			"192.168.50.11/softfront07012015",
+			"/en/",
+			"headeren",
+			"/en/",
+			"<?php echo $this->html->url('/', true); ?>",
+			"jp|vn|cor|en",
+			"career@tempvietnam.com",
+			"webmaster@freesale-vietnam.com",
+			"viettq@freesale-vietnam.com",
+			"www.i-glocal.com/vn",
+			"dev.fvn-office.net/work/iglocal",
+			"service.fvn-office.net/work/iglocal",
+			"service.fvn-office.net/work/iglocal/",
+			"  ",
+			" ",
+			"images",
+			"hinhanhcongty",
+			"hinh-anh-cong-ty",
+			"hinh_anh",
+			"hinh-anh-cong-ty",
+			"hinhanh",
+			"images",
+			"www.intelligencevietnam.com",
+			"dev.freesale-vietnam.com/work",
+			"dev.fvn-office.net/work/nasset-test",
+			"local.local/nasset11242014",
+			"m&#178",
+			"http://local.local/woo",
+			"href=\"/bk/app/webroot/files/uploads/",
+			"http://jschool-hcmc.net/bk/app/webroot/files/uploads/",
+			"src=\"/bk/app/webroot/files/uploads/",
+			"/bk/app/webroot/files/uploads/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myproject.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"haisancangio\\playlist.rss"
+			],
+			[
+				"191",
+				"tem01062015\\app\\webroot\\js\\jquery-1.9.1.min.js"
+			],
+			[
+				"headercor",
+				"tem01062015\\app\\View\\Elements\\headercor.ctp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "excerpt",
+		"selected_items":
+		[
+			[
+				"excerpt",
+				"get_excerpt"
+			]
+		],
+		"width": 664.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 515.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
