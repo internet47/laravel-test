@@ -29,7 +29,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="/">HOME</a>
+							<a class="navbar-brand" href="/posts">HOME</a>
 						</div>
 					
 						<!-- Collect the nav links, forms, and other content for toggling -->

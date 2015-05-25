@@ -22,6 +22,7 @@
 
 
 Route::get('/users', 'UserController@index');
+Route::get('/users/show/{id}', 'UserController@show');
 Route::get('/posts', 'PostController@index');
 Route::get('/cats', 'CategoryController@index');
 
