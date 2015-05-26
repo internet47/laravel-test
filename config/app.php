@@ -135,6 +135,8 @@ return [
 		'Illuminate\Translation\TranslationServiceProvider',
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
+		'Illuminate\View\ViewServiceProvider', //<=== da them vao
+		'Illuminate\Html\HtmlServiceProvider', //<== da them vao
 
 		/*
 		 * Application Service Providers...
@@ -192,6 +194,9 @@ return [
 		'URL'       => 'Illuminate\Support\Facades\URL',
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
+		'Form'      => 'Illuminate\Html\FormFacade', //<== da them vao
+		'View'      => 'Illuminate\Html\HtmlFacade', // da them vao
+
 
 	],
 

@@ -2,9 +2,11 @@
 
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
-
-use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Request;
+//use Illuminate\Http\Request;
 use App\Post;
+use Input;
+
 
 class PostController extends Controller {
 
@@ -81,6 +83,21 @@ class PostController extends Controller {
 	public function destroy($id)
 	{
 		//
+	}
+
+	public function viewdata()
+	{
+		// //$user = User::find($id);
+		// if (Request::ajax)
+		// 	{
+		// 		$data = Input::all();
+		// 		print_r($data); die();
+		// 	}
+		if (Request::ajax())
+		{
+		echo 'aaaaaaaaaaaaaaaaaa';
+		die();
+		}
 	}
 
 }

@@ -6,9 +6,42 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>QUẢN LÝ TÙM LUM</title>
 
+		<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+		<meta name="_token" content="{!! csrf_token() !!}"/>
+		{{-- <script type="text/javascript">
+				$.noConflict();
+				jQuery(document).ready(function($) {
+						$.ajaxSetup({
+						   headers: { 'X-CSRF-Token' : $('meta[name=_token]').attr('content') }
+						});
+
+						$(".prof").click(function(event) {
+					alert("r");
+					event.preventDefault();
+					var pid = $(this).attr('data-id');
+
+					$.ajax({
+					      url: 'http://localhost:8000/users/getprofile',
+					      type: "POST",
+					      data: {'id':pid},
+					      success: function(data){
+					        alert(data);
+					      }
+					    });     
+								
+				});
+
+
+					});
+		</script>
+ --}}
+		
+
+
 		<!-- Bootstrap CSS -->
 		<link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
-
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -64,9 +97,9 @@
 
 
 
-		<!-- jQuery -->
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<!-- Bootstrap JavaScript -->
-		<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	
+	
+		
+
 	</body>
 </html>

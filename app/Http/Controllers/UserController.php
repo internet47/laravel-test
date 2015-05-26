@@ -2,8 +2,11 @@
 
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
-use Illuminate\Http\Request;
+//use Illuminate\Http\Request;
 use App\User;
+use Input;
+//use Request;
+use Illuminate\Support\Facades\Request;
 
 class UserController extends Controller {
 
@@ -81,6 +84,24 @@ class UserController extends Controller {
 	public function destroy($id)
 	{
 		//
+	}
+
+
+	public function getprofile()
+	{
+		// //$user = User::find($id);
+		// if (Request::ajax)
+		// 	{
+		// 		$data = Input::all();
+		// 		print_r($data); die();
+		// 	}
+		if (Request::ajax())
+		{
+		$data = Input::all();//Input::get('id')
+		$user = User::find($data['id']);
+		$json = json_encode($user);
+		print_r($json); die();
+		}
 	}
 
 }

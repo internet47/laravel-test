@@ -23,6 +23,15 @@
 
 Route::get('/users', 'UserController@index');
 Route::get('/users/show/{id}', 'UserController@show');
+//Route::get('/users/view', 'UserController@view');
+
+Route::post('users/getprofile', 'UserController@getprofile');
+
 Route::get('/posts', 'PostController@index');
+//Route::post('/posts/view', 'PostController@view');
+Route::post('viewdata', 'PostController@viewdata');
+
+
+
 Route::get('/cats', 'CategoryController@index');
 
