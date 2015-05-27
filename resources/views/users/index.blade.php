@@ -37,7 +37,7 @@
 	@endforeach
 
 
-<div class="log"></div>
+
 <script type="text/javascript">
 	$.noConflict();
 	jQuery(document).ready(function($) {

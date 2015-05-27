@@ -5,6 +5,7 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Auth\Passwords\CanResetPassword;
 use Illuminate\Contracts\Auth\Authenticatable as AuthenticatableContract;
 use Illuminate\Contracts\Auth\CanResetPassword as CanResetPasswordContract;
+use DB;
 
 class User extends Model implements AuthenticatableContract, CanResetPasswordContract {
 
@@ -29,11 +30,18 @@ class User extends Model implements AuthenticatableContract, CanResetPasswordCon
 	 *
 	 * @var array
 	 */
-	protected $hidden = ['remember_token'];
+	protected $hidden = ['password', 'remember_token'];
 
 	public function posts()
 	{
 		return $this->hasMany('App\Post');
 	}
+
+	public static function getAll()
+	{
+		return DB::table('users')->get();
+	}
+
+
 
 }

@@ -7,7 +7,7 @@ use App\User;
 use Input;
 //use Request;
 use Illuminate\Support\Facades\Request;
-
+use Event;
 class UserController extends Controller {
 
 	/**
@@ -17,7 +17,16 @@ class UserController extends Controller {
 	 */
 	public function index()
 	{
-		$users = User::all();
+		 //$users = User::All();
+		 $users = User::where('id','>',0)->get();
+		 //$users = User::remember(1)->get();
+		 // echo '<pre>';
+		 // print_r($users->posts);//give me a array
+		 // echo '</pre>';
+
+		
+
+		//$users = User::all();
 		return view('users.index')->with('users',$users);
 	}
 
@@ -49,7 +58,10 @@ class UserController extends Controller {
 	 */
 	public function show($id)
 	{
+		
 		$user = User::find($id);
+		Event::fire('users.show',$user);
+		//$user = User::remember(1)->where('id','=',$id)->first();
 		return view('users.show')->with('user',$user);
 	}
 
@@ -89,12 +101,6 @@ class UserController extends Controller {
 
 	public function getprofile()
 	{
-		// //$user = User::find($id);
-		// if (Request::ajax)
-		// 	{
-		// 		$data = Input::all();
-		// 		print_r($data); die();
-		// 	}
 		if (Request::ajax())
 		{
 		$data = Input::all();//Input::get('id')

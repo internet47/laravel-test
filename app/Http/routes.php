@@ -10,6 +10,16 @@
 | and give it the controller to call when that URI is requested.
 |
 */
+// Event::listen('illuminate.query', function( $query ) {
+// 	echo '<div class="alert alert-info"><h2>'.$query.'</h2></div>';
+// });
+
+
+Event::listen('users.show', function($user)
+{
+	var_dump($user->toArray());
+});
+
 
  Route::get('/', 'WelcomeController@index');
 
