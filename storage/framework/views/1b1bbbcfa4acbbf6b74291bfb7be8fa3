@@ -1,0 +1,47 @@
+<?php $__env->startSection('content'); ?>
+	<h1>Danh sách bài viết</h1>
+	<ol>
+	<?php foreach($posts as  $post): ?> 
+			
+				<li class="text-primary" data-id="<?php echo e($post->id); ?>"><?php echo e($post->title); ?> <small> created by <?php echo e($post->user->fullname); ?></small></li>
+				<?php if($post->categories->count()): ?>			
+						<?php foreach($post->categories as $cat): ?>
+							<address>Category: <?php echo e($cat->title); ?></address>
+						<?php endforeach; ?>
+				<?php else: ?>
+					Không thuộc category
+				<?php endif; ?>
+			
+				<p><?php echo e($post->content); ?></p>
+			
+	<?php endforeach; ?>
+	</ol>
+
+
+	<p id="test">SEND</p>
+
+<script type="text/javascript">
+	//$.noConflict();
+	$(document).ready(function() {
+		$("#test").click(function(event) {
+			//
+			//event.preventDefault();
+			//var pid = $(this).attr('data-id');
+
+			$.ajax({
+			      url: 'viewdata',
+			      type: "post",
+			      data: {'id':'1','_token':$('meta[name=_token]').attr('content') },
+			      success: function(data){
+			      	console.log(data);
+			        alert(data);
+			      }
+			    });     
+						
+		});
+	});
+</script>
+
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('template.master', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

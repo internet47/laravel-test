@@ -1,0 +1,17 @@
+<?php $__env->startSection('content'); ?>
+
+Xin chào <h1><?php echo e($user->fullname); ?></h1>
+<p><?php echo e($user->password); ?></p>
+<p><?php echo e($user->created_at); ?></p>
+<p><?php echo e($user->updated_eat); ?></p>
+
+<p>Những bài đã đăng:</p>
+<ul>
+	<?php foreach($user->posts as $post): ?>
+	<li><?php echo e($post->title); ?></li>
+	<?php endforeach; ?>
+</ul>
+
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('template.master', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>

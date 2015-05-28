@@ -1,0 +1,10 @@
+<?php $__env->startSection('content'); ?>
+	<h1>Danh sách category</h1>
+	<?php foreach($cats as  $cat): ?> 
+			<dl>
+				<dt><?php echo e($cat->title); ?></dt>
+			</dl>
+	<?php endforeach; ?>
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('template.master', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
